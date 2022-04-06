@@ -1,5 +1,5 @@
-# Hey, I'm Judith Domènech👩🏻‍💻
-## Junior FullStack Developer (Open To Work)
+<h1 align="center"> Hey, I'm Judith Domènech👩🏻‍💻 </h1>
+<h2 align="center"> Junior FullStack Developer (Open To Work)</h2>
 
 
 I'm Judith Domènech, I live in Barcelona and I'm a junior fullstack developer.
