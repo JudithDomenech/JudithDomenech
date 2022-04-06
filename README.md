@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi, I'm Judith Domènech👩🏻‍💻
 
-<!--
-**JudithDomenech/JudithDomenech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+```javascript
+const Judith = {
+	pronouns: "she" | "her",
+	code: [Javascript, HTML, CSS, Sass],
+	DataBase: [MongoDB],
+	tools: [React,  Node, Express, Mongoose],
+	challenge: find a job 👩🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ },
+ 
+ ```
+
+#### You can find me 📜:
+- 📩 Mail: judith.dp.3@gmail.com
+- 🔗 [Linkedin](https//:www.linkedin.com/in/judith-domènech-pujadas-224a95224/)
+- 🐣 [Twitter](https//:www.twitter.com/JudithDomnech2)  </li>
+
+
+⭐️ From [@JudithDomenech](https://github.com/JudithDomenech)
