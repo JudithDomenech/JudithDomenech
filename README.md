@@ -15,7 +15,7 @@ const Judith = {
 
 #### You can find me 📜:
 - 📩 Mail: judith.dp.3@gmail.com
-- 🔗 [Linkedin](https//:www.linkedin.com/in/judith-domènech-pujadas-224a95224)
+- 🔗 [Linkedin](www.linkedin.com/in/judith-domènech-pujadas-224a95224)
 - 🐣 [Twitter](https//:www.twitter.com/JudithDomnech2)  </li>
 
 
