@@ -12,7 +12,6 @@ const Judith = {
 	DataBase: [MongoDB],
 	tools: [React,  Node, Express, Mongoose],
 	challenge: find a job 👩🏻‍💻
-
  },
  
  ```
