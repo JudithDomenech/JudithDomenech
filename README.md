@@ -8,9 +8,10 @@ I'm Judith Domènech, I live in Barcelona and I'm a junior fullstack developer.
 ```javascript
 const Judith = {
 	pronouns: "she" | "her",
-	code: [Javascript, HTML, CSS, Sass],
-	DataBase: [MongoDB],
-	tools: [React,  Node, Express, Mongoose],
+	Front End: [Javascript, HTML,React, CSS, Sass],
+	Back End: [Node, Express, Mongoose]
+	DataBase: [MongoDB]
+	
 	challenge: find a job 👩🏻‍💻
  },
  
