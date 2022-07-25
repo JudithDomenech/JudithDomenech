@@ -12,8 +12,6 @@ const Judith = {
 	Learning: [Angular],
 	BackEnd:  [Node, Express, Mongoose],
 	DataBase: [MongoDB]
-	
-	challenge: find a job 👩🏻‍💻
  },
  
  ```
