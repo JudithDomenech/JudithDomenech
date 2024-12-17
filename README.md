@@ -2,7 +2,7 @@
 <h2 align="center"> Junior FullStack Developer (Open To Work)</h2>
 
 
-I'm Judith Domènech, I live in Barcelona and I'm a junior fullstack developer.
+I'm Judith Domènech, I live in Barcelona and I'm a fullstack developer.
 
 
 ```javascript
