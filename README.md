@@ -7,13 +7,32 @@ I'm Judith Domènech, I live in Barcelona and I'm a fullstack developer.
 
 ```javascript
 const Judith = {
-	pronouns: "she" | "her",
-	FrontEnd: [Javascript, HTML, React, CSS, Sass],
-	Learning: [Angular, SQL, .NET],
-	BackEnd:  [Node, Express, Mongoose],
-	DataBase: [MongoDB]
- },
- 
+  pronouns: "Ella",
+  FrontEnd: [
+    "Javascript", "TypeScript", "HTML", "React", "Angular", "CSS", "Sass", "Chart.js"
+  ],
+  BackEnd: [
+    "C#.NET", "Node", "Express", "Mongoose", "C# .Net"
+  ],
+  DataBase: [
+   "SQL", "MySQL", "MongoDB"
+  ],
+  Tools: [
+    "Boostrap", "Git", "Jenkins", "Visual Studio", "VSC"
+  ],
+  Skills: [
+    "Desarrollo full-stack", "Diseño web responsivo", "Metodologías ágiles", "Colaboración con equipos multidisciplinarios", "Gestión de proyectos", "Principios de diseño UI/UX", "Resolución de Incidencias"
+  ],
+  Experience: [
+    "Más de 2 años de experiencia como desarrolladora full-stack",
+    "Desarrollo de sitios web y aplicaciones web dinámicas y responsivas",
+    "Experiencia en gestión y optimización de bases de datos en entornos SQL"
+    "Enfoque en la mejora de la experiencia de usuario y en garantizar una alta calidad del código"
+  ],
+  CareerGoals: [
+  "Seguir desarrollando mis habilidades tanto en frontend como en backend"
+  ]
+};
  ```
 
 #### You can find me 📜:
